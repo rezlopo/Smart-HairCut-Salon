@@ -1,0 +1,32 @@
+body {
+  background-color: #fefbd8;
+}
+
+.color {
+    background-color: ;
+    margin: 20px;
+}
+
+h5{
+    text-align: center;
+}
+
+td{
+    text-align: center;
+
+}
+
+th{
+    text-align: center;
+
+}
+
+.form-control{
+    margin:10px;
+    margin-left: 0px;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 0 9px;
+}
